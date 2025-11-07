@@ -11,30 +11,30 @@
 
 
 ---
-
 <h3 align="center">🧰 Tech Stack</h3>
 
 <p align="center">
   <!-- 🌐 Frontend -->
-  <img src="https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Vue.js-42FFEE?logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-FF007F?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-7F00FF?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-00FFFF?logo=javascript&logoColor=black" />
   <br/>
 
   <!-- ⚙️ Backend -->
-  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-00FFFF?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-FF00FF?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rust-7FFF00?logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-00FF7F?logo=springboot&logoColor=white" />
   <br/>
 
   <!-- 🗄️ Database & DevOps -->
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-00FFFF?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-FF00FF?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-007FFF?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-FF007F?logo=githubactions&logoColor=white" />
 </p>
+
 
 ---
 
