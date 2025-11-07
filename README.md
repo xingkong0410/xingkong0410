@@ -1,13 +1,11 @@
-# 👋 Hi, I'm 星空!
+# 👋 Hi, I'm xingkong!
 
-🌱 I'm currently learning **DevOps, Kubernetes, and InfoSec**  
-💬 Ask me about **Docker, Vue 3, or Spring Boot**  
-📫 Reach me at: [your_email@example.com](mailto:your_email@example.com)  
-🌐 My blog: [yourblog.com](https://yourblog.com)
+📫 Reach me at: [2408221825@qq.com](mailto:your_email@example.com)  
+🌐 My blog: Under development...
 
 
 <!-- 🌈 动态打字标题放在最上面 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7C23E&lines=Hi+I'm+星空;Welcome+to+my+GitHub!;Enjoy+coding!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7C23E&lines=Hi+I'm+xingkong;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 
 ---
@@ -50,5 +48,3 @@
 
 ---
 
-### 🐍 Snake Animation
-<!-- 可选：如果你启用了蛇形提交动画 -->
