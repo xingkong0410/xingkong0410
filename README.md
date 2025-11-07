@@ -5,7 +5,7 @@
 
 
 <!-- 🌈 动态打字标题放在最上面 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7C23E&lines=Hi+I'm+xingkong;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7C23E&duration=2000&pause=1000&lines=Hi+I'm+xingkong;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 
 ---
