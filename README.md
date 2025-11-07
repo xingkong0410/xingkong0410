@@ -1,4 +1,6 @@
-![p GIF](./p.gif)
+<p align="center">
+  <img src="demo.gif" width="100%" alt="Demo GIF" />
+</p>
 
 
 # 👋 Hi, I'm xingkong!
